@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width,user-scalable=no"/>
+	<title>S-coach</title>
+	<link rel="stylesheet"  href="lib/tau/wearable/theme/default/tau.min.css">
+	
+	<!-- tizen sdk ver 2.3.1 기어S2 -->
+	<link rel="stylesheet" media="all and (-tizen-geometric-shape: circle)" href="lib/tau/wearable/theme/default/tau.circle.min.css"> 
+	
+	<!-- load theme file for your application -->
+	<link rel="stylesheet"  href="css/style.css">
+	
+	
+</head>
+<body> 
+
+	<!-- main and Here is a Start-Button -->
+	<div class="ui-page ui-page-active" id="main">
+		<header class="ui-header">
+			<h2 class="ui-title">S코치</h2>
+		</header>
+		
+		<div class="ui-content content-padding">
+			<div class="ui-grid-col-1 button-group-height">
+				<button type="button" class="ui-btn" onclick="connect();">START</button>
+			</div>
+			
+			<!-- result -->
+			<div id="resultBoard"> 	
+			
+			</div> 
+			
+		</div>
+		
+	</div>
+	
+	<!-- real time plotting , exercise continue and Here is a Stop-Button -->
+	<div class="ui-page" id="beExercising">
+		<div class="ui-content">
+			
+			<!-- real time plotting -->
+			<canvas id="mycanvas" width="300" height="100"></canvas>
+			
+			<!-- exercise stop button -->
+			<footer class="ui-footter">
+				<button type="button" class="ui-btn" onclick="disconnect();">STOP</button>
+			</footer>
+			
+		</div>
+	</div>
+	
+	
+</body>
+
+
+<script type="text/javascript" src="lib/tau/wearable/js/tau.min.js"></script>
+
+<!-- load javascript file for your application -->
+<script src="js/main.js"></script>
+<script type="text/javascript" src="js/smoothie.js"></script> <!-- js폴더에 추가 하고 링크 걸어줌 Keeby추가 끝 2015-09-29-(화) -->
+
+
+</html>

@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "22.0.1"
+
+    /* 추가 */
+   /* compileOptions {
+        encoding "UTF-8"
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }*/
+    /* 추가 */
+
+    defaultConfig {
+        applicationId "com.samsung.android.sdk.accessory.example.helloaccessoryprovider"
+        minSdkVersion 14
+        targetSdkVersion 17
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+    compile files('libs/accessory-v2.2.2.jar')
+    compile files('libs/sdk-v1.0.0.jar')
+
+    /* 추가 :: httppost */
+    'commons-codec:commons-codec:1.9'
+    'commons-logging:commons-logging:1.2'
+
+    'org.apache.httpcomponents:fluent-hc:4.5'
+    'org.apache.httpcomponents:httpclient:4.5'
+    'org.apache.httpcomponents:httpclient-cache:4.5'
+    'org.apache.httpcomponents:httpcore:4.4.1'
+    'org.apache.httpcomponents:httpmime:4.5'
+    /* 추가 */
+}

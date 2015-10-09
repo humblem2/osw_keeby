@@ -1,0 +1,91 @@
+/*    
+ * Copyright (c) 2014 Samsung Electronics Co., Ltd.   
+ * All rights reserved.   
+ *   
+ * Redistribution and use in source and binary forms, with or without   
+ * modification, are permitted provided that the following conditions are   
+ * met:   
+ *   
+ *     * Redistributions of source code must retain the above copyright   
+ *        notice, this list of conditions and the following disclaimer.  
+ *     * Redistributions in binary form must reproduce the above  
+ *       copyright notice, this list of conditions and the following disclaimer  
+ *       in the documentation and/or other materials provided with the  
+ *       distribution.  
+ *     * Neither the name of Samsung Electronics Co., Ltd. nor the names of its  
+ *       contributors may be used to endorse or promote products derived from  
+ *       this software without specific prior written permission.  
+ *  
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS  
+ * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT  
+ * LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR  
+ * A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT  
+ * OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,  
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT  
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,  
+ * DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY  
+ * THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT  
+ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE  
+ * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ */
+ 
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0px auto;
+    background-color:#f57936; /* #222 ==> #f57936 keeby */
+}
+
+.contents {
+	display: flex;
+	display: -webkit-flex;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	height:320px;
+}
+
+.content-padding {
+	margin-top: 16px;
+	margin-bottom: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.content_text {
+	font-weight:bold;
+	font-family: sans-serif;	/* 추가 */
+	font-size:5em;
+	color:#fff;
+}
+
+.ui-btn {
+	font-size:50px; /* 16px ==> 50px로 바꿈 keeby */
+	font-family: sans-serif;	/* 추가 */
+	font-weight: bold;			/* 추가 */
+	letter-spacing: 2px;			/* 추가 */
+	background-color: #30ab30;	/* 추가 #0fc9cf */
+	border: 5px;					/* 추가 */
+	border-radius: 30px 50px;			/* 추가 */
+	border-style: solid;			/* 추가 */
+	border-color: #eb7c05;			/* 추가 */
+	text-shadow: -1px -1px 0 rgba(0,0,0,0.3);
+	!important
+}
+
+#resultBoard {
+	font-size:28px;	/* 20px ==> 28px로 바꿈 keeby */
+	font-weight:bold;
+	font-family: sans-serif;	/* 추가 */
+	!important
+}
+
+.ui-header .ui-title {
+  color: #49c0f0;	/* keeby */
+  font-size: 30px;
+  white-space: nowrap;
+  margin: 0px;
+  padding-left: 16px;
+  padding-right: 16px;
+}

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\user\AndroidStudioProjects\Provider\app\src\main\assets"><file name="Gear.wgt" path="C:\Users\user\AndroidStudioProjects\Provider\app\src\main\assets\Gear.wgt"/></source></dataSet><dataSet config="debug"><source path="C:\Users\user\AndroidStudioProjects\Provider\app\src\debug\assets"/></dataSet></merger>

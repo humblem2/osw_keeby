@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Provider\app\libs\accessory-v2.2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06839af7be84d673ecd37f10e581350b76dc93fc">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Provider\app\build\intermediates\pre-dexed\debug\accessory-v2.2.2-32b427a05ea49c716c0c306a8fc164139dcb12a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AndroidStudioProjects\Provider\app\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Provider\app\build\intermediates\pre-dexed\debug\sdk-v1.0.0-8a5a1924b9174aa37ebc72ab04749d266e8d2529.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\user\AndroidStudioProjects\Provider\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-3c9634e73870f3270eed8634a922b954d7502e55.jar" />
+    </item>
+
+</items>
