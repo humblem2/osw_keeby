@@ -14,9 +14,9 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 * Device Optimization on samsung galaxy gear version(2, S, S2)
 
 ### Project Summary
-머신러닝 기반 인공지능 피트니스 헬스 코치 어플리케이션
+머신러닝 기반 인공지능 피트니스 헬스 코치 어플리케이션.
 3축가속도센서 3축자이로스코프센서를 기반으로 사용자의 모션을 실시간 트래킹 및 스케쥴링하여 '무슨운동'을 '몇회'했는지 그리고 '칼로리 소모량'까지 스스로 알아서 판단하고 기록하여 관리.
-또한 사용자가 운동을 시작한 후 심박수를 예상하여운동을 촉진할수있도록 사용자의 예상된 평균심장박동수와 가장 비슷한 BPM에 해당되는 음악을 스스로 찾고 알아서 재생.
+또한 사용자가 운동을 시작한 후 심박수를 예상하여 운동을 촉진할수있도록 사용자의 예상된 평균심장박동수와 가장 비슷한 BPM에 해당되는 음악을 스스로 찾고 알아서 재생.
 
 ### About Models
 * Performance(Accuracy): about 96.7% for unseen data [2016. 10] 
