@@ -23,7 +23,7 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 * Type: Classification on Supervised Learning.
 * Using Dimension Reduction Skills e.g. PCA, LDA(Fisher's LDA)
 * Using Kernel Tricks e.g. linear and rbf
-* Hybrid Stacking Model based on SVM Framework and others 
+* Hybrid Stacking Model based on SVM(Support Vector Machine) Framework and others 
 
 ### About Project Enviroments
 * Python 3.4
