@@ -26,9 +26,9 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 * Hybrid Stacking Model based on SVM Framework and others 
 
 ### About Project Enviroments
-* Python 
+* Python 3.4
 * Tizen
-* Java
+* Java 8
 * Android
 * AWS EC2 free tier
 * Flask
