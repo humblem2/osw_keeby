@@ -11,6 +11,7 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 
 ### 타이젠 OS 기반의 Gear(Gear2 , Gear S, Gear S2)  애플리케이션
 * `tizen-sdk-2.3.1`
+* Device Optimzation on gear version(2, S, S2)
 
 ### Project Summary
 머신러닝 기반 인공지능 피트니스 헬스 코치 어플리케이션
@@ -24,5 +25,5 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 * Using Kernel Tricks e.g. linear and rbf
 * Hybrid Stacking Model based on SVM Framework and others 
 
-### About Project Enviroments]
+### About Project Enviroments
 - Using Python, Tizen, Java, Android, AWS
