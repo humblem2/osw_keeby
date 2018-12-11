@@ -40,5 +40,5 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 * [Samsung Developers](https://developer.samsung.com/forum/android/samsung-sdk?boardName=SDK&searchSubIdAll=&searchSubId=&searchType=ALL&listLines=40&searchText=tizen)
 * [Samsung Tizen Forum](https://www.samsungtizenforum.com/)
 * [book1 ](http://www.hanbit.co.kr/store/books/look.php?p_code=E6459056874)(kor)
-* [book1 ](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.saNo=001&sc.prdNo=216774259&gclid=Cj0KCQiAurjgBRCqARIsAD09sg9bcVJnPhp9QvONk9QuGJJkgvZu5jHmehbMiu0mpuM1Kui5vAN8-kcaArDxEALw_wcB&product2017=true)(kor)
-* [book1 ](http://www.yes24.com/24/goods/16022321)(kor)
+* [book2 ](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.saNo=001&sc.prdNo=216774259&gclid=Cj0KCQiAurjgBRCqARIsAD09sg9bcVJnPhp9QvONk9QuGJJkgvZu5jHmehbMiu0mpuM1Kui5vAN8-kcaArDxEALw_wcB&product2017=true)(kor)
+* [book3 ](http://www.yes24.com/24/goods/16022321)(kor)
