@@ -19,7 +19,7 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 또한 사용자가 운동을 시작한 후 심박수를 예상하여 운동을 촉진할수있도록 사용자의 예상된 평균심장박동수와 가장 비슷한 BPM에 해당되는 음악을 스스로 찾고 알아서 재생.
 
 ### About Models
-* Performance(Accuracy): about 96.7% for unseen data [2016. 10] 
+* __Performance(Accuracy):__ about 96.7% for unseen data [2016. 10] 
 * Type: Classification on Supervised Learning.
 * Using Dimension Reduction Skills e.g. PCA, LDA(Fisher's LDA)
 * Using Kernel Tricks e.g. linear and rbf
