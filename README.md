@@ -8,7 +8,7 @@ The 9th OSS Grand Developers Challenge 본선 진출 프로젝트
 ## __*S-coach*__ 
 AI personal trainer App based on Machine Learning using Samsung tizen smart watch.
 
-### 타이젠 OS 기반의 Gear(Gear2 , Gear S, Gear S2)  애플리케이션
+### 삼성 타이젠 OS 기반의 Gear(Gear2 , Gear S, Gear S2)  애플리케이션
 * `tizen-sdk-2.3.1`
 * Device Optimization on samsung galaxy gear version(2, S, S2)
 
