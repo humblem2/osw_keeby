@@ -1,9 +1,9 @@
 # osw_keeby
 OSS Grand Developers Challenge 본선 진출 프로젝트
 
-[paper](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)
-[related code](https://github.com/humblem2/osw_keeby/)
-[video](https://youtu.be/p5vPWqi1B6w)
+[[paper](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)]
+[[related code](https://github.com/humblem2/osw_keeby/)]
+[[video](https://youtu.be/p5vPWqi1B6w)]
 
 ## __*S-coach*__ 
 AI personal trainer App based on Machine Learning using Samsung tizen smart watch. 
