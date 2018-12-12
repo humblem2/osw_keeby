@@ -11,7 +11,7 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 ### Note
 * `삼성 타이젠 OS` 기반의 Gear(Gear2 , Gear S, Gear S2)  애플리케이션
 * `tizen-sdk-2.3.1`
-* Device Optimization completed on `samsung smartwatch` version(Samsung Galaxy Gear 2, Gear S, Gear S2)
+* Device Optimization completed on `samsung smartwatch` version([Samsung Galaxy Gear 2, Gear S, Gear S2](https://developer.samsung.com/galaxy-watch))
 * Tizen app type: Companion(operating with Samsung Galaxy S4(android 4.4))
 
 ### Project Summary
