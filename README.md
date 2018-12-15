@@ -1,5 +1,5 @@
 # osw_keeby
-The 9th OSS Grand Developers Challenge 본선 진출 프로젝트
+The 9th OSS Grand Developers Challenge 본선 프로젝트
 
 [[paper](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)]
 [[related code](https://github.com/humblem2/osw_keeby/)]
