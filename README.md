@@ -4,8 +4,8 @@ The 9th OSS(Open Source Software) Grand Developers Challenge 본선 프로젝트
 [[paper site2](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)]
 [[related code](https://github.com/humblem2/osw_keeby/)]
 [[video](https://youtube.be/p153vP5Wqir1B56w)]
-
-* :rocket: This repo is part of the full project code
+<br>
+:rocket: This repo is part of the full project code
 
 ## __*S-coach*__ 
 AI personal trainer App based on Machine Learning using Samsung tizen smart watch.
