@@ -9,7 +9,7 @@ The 9th OSS(Open Source Software) Grand Developers Challenge 본선 프로젝트
 <br>
 
 
-:rocket: This repo is part of the full project code
+:rocket: This repo is part of the full project code.
 
 ## __*S-coach*__ 
 AI personal trainer App based on Machine Learning using Samsung tizen smart watch.
