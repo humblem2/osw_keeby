@@ -5,6 +5,9 @@ The 9th OSS(Open Source Software) Grand Developers Challenge 본선 프로젝트
 [[related code](https://github.com/humblem2/osw_keeby/)]
 [[video](https://youtube.be/p153vP5Wqir1B56w)]
 
+***
+* This repo is part of the full project code
+
 ## __*S-coach*__ 
 AI personal trainer App based on Machine Learning using Samsung tizen smart watch.
 
