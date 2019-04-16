@@ -27,7 +27,7 @@ AI personal trainer App based on Machine Learning using Samsung tizen smart watc
 
 ### About Train Models(__optimized__)
 * Performance(Accuracy): about 96.7% for unseen data [2016. 10] 
-* Sort: Discriminative Model (**_p(Y | X)_**)
+* Sort: Discriminative Model (**_p(y | X)_**)
 * Type: Classification on Supervised Learning.
 * Using Dimension Reduction Skills e.g. PCA, LDA(Fisher's LDA)
 * Using Kernel Tricks e.g. linear and rbf
