@@ -1,9 +1,7 @@
 # My AI Persnol Trainer, S-Coach !
 #### Project : MachineLearning based Samsung Healthcare-App
 [The 8th OSS(Open Source Software) Grand Developers Challenge](https://www.oss.kr/notice/show/b1b01564-a109-482e-ba7a-2d80d69b00c4) 본선진출 `ML + Web + Smartwatch App` 프로젝트
-* [[paper site1](https://www.semanticscholar.org/paper/Recognition-of-Anaerobic-based-on-Machine-Learning-Cho-Lee/b09e29cb5e33519be01e7fa9fe4d486903b73721)]
-* [[paper site2](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)]
-* [[related code](https://github.com/humblem2/osw_keeby/)]
+* [[paper site1](https://www.semanticscholar.org/paper/Recognition-of-Anaerobic-based-on-Machine-Learning-Cho-Lee/b09e29cb5e33519be01e7fa9fe4d486903b73721)] / [[paper site2](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)]
 * [[video](https://youtube.be/p153vP5Wqir1B56w)]
 * [[about competition](https://www.oss.kr/notice/show/b1b01564-a109-482e-ba7a-2d80d69b00c4)]
 
