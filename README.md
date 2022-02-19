@@ -5,7 +5,7 @@
 * [[paper site2](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)]
 * [[related code](https://github.com/humblem2/osw_keeby/)]
 * [[video](https://youtube.be/p153vP5Wqir1B56w)]
-* [[Competition](https://www.oss.kr/notice/show/b1b01564-a109-482e-ba7a-2d80d69b00c4)]
+* [[about competition](https://www.oss.kr/notice/show/b1b01564-a109-482e-ba7a-2d80d69b00c4)]
 
 <br>
 
