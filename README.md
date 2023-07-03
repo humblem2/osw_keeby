@@ -13,7 +13,7 @@
 
 | 내용 | 외부링크로 이동 |
 | --- | --- |
-| 1. 대회소개 | https://www.oss.kr/notice/show/6008d9bc-66f0-4373-a9df-19a8973c7038 |
+| 1. 대회소개 | * https://www.oss.kr/notice/show/6008d9bc-66f0-4373-a9df-19a8973c7038 |
 | 2. 시연영상 | https://youtu.be/p5vPWqi1B6w |
 | 3. 발표자료 | https://www.slideshare.net/SuHyunCho2/sws-56703648#1 |
 | 4. 개발문서 | https://www.slideshare.net/secret/bsfNKp1uR5Y1q8 |
