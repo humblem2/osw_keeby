@@ -11,13 +11,13 @@
 * 5. [작성논문](https://www.slideshare.net/SuHyunCho2/recognition-of-anaerobic-based-on-machine-learning-using-smart-watch-sensor-data) ([[paper site1](https://www.semanticscholar.org/paper/Recognition-of-Anaerobic-based-on-Machine-Learning-Cho-Lee/b09e29cb5e33519be01e7fa9fe4d486903b73721)] / [[paper site2](https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data)])
 
 
-| 번호 | 외부링크로 이동 |
+| 내용 | 외부링크로 이동 |
 | --- | --- |
-| 1. | https://www.oss.kr/notice/show/6008d9bc-66f0-4373-a9df-19a8973c7038 |
-| 2. | https://youtu.be/p5vPWqi1B6w |
-| 3. | https://www.slideshare.net/SuHyunCho2/sws-56703648#1 |
-| 4. | https://www.slideshare.net/secret/bsfNKp1uR5Y1q8 |
-| 5. | https://www.slideshare.net/SuHyunCho2/recognition-of-anaerobic-based-on-machine-learning-using-smart-watch-sensor-data (https://www.semanticscholar.org/paper/Recognition-of-Anaerobic-based-on-Machine-Learning-Cho-Lee/b09e29cb5e33519be01e7fa9fe4d486903b73721 / https://www.researchgate.net/publication/312408156_Recognition_of_Anaerobic_based_on_Machine_Learning_using_Smart_Watch_Sensor_Data) |
+| 1. 대회소개 | https://www.oss.kr/notice/show/6008d9bc-66f0-4373-a9df-19a8973c7038 |
+| 2. 시연영상 | https://youtu.be/p5vPWqi1B6w |
+| 3. 발표자료 | https://www.slideshare.net/SuHyunCho2/sws-56703648#1 |
+| 4. 개발문서 | https://www.slideshare.net/secret/bsfNKp1uR5Y1q8 |
+| 5. 작성한 논문| https://www.slideshare.net/SuHyunCho2/recognition-of-anaerobic-based-on-machine-learning-using-smart-watch-sensor-data |
 
 <br>
 
