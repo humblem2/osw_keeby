@@ -3,7 +3,7 @@
 #### Project : MachineLearning based Samsung Healthcare-App
 [The 9th OSS(Open Source Software) Grand Developers Challenge](https://www.oss.kr/notice/show/6008d9bc-66f0-4373-a9df-19a8973c7038) 삼성전자 기업제안과제 본선진출 `ML(Classifier) + Web(백엔드) + Smartwatch App` 프로젝트
 
-#### About
+#### ⭐ 외부링크로 이동합니다
 * 1. [대회소개](https://www.oss.kr/notice/show/6008d9bc-66f0-4373-a9df-19a8973c7038)
 * 2. [시연영상](https://youtu.be/p5vPWqi1B6w)
 * 3. [발표자료](https://www.slideshare.net/SuHyunCho2/sws-56703648#1)
